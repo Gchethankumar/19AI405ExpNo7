@@ -211,11 +211,13 @@ class Game:
 
 <hr>
 <h2>Sample Input and Output:</h2>
-![img1](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/44102279-1797-4501-95d4-d5a3b7f014e3)
-![img2](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/8f4e87e2-85c1-4443-8867-aadc774d2486)
-![img3](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/f7991226-094a-4f3f-98b7-c75166a89145)
-![img4](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/7369b729-40e0-484e-8fd8-43a2a2b36607)
-![img5](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/0a029340-cd2a-48bf-af11-c816b18086f7)
+
+![img1](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/d33e5385-4bcb-43b9-8427-332ead4198f1)
+![img2](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/6fd65155-0263-4442-af17-d8d157e26ade)
+![img3](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/8439bfe8-6958-4537-965c-5e6030d9fa6c)
+![img4](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/9d59f08d-e172-409c-bf33-d2bf07c1e8c4)
+![img5](https://github.com/Gchethankumar/19AI405ExpNo7/assets/118348224/cb83b763-94ea-4c3e-9f33-cb75e8c5be92)
+
 
 <hr>
 
